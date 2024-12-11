@@ -37,3 +37,7 @@ Estos modelos fueron seleccionados para comparar su rendimiento y precisión al 
    ```bash
    cp .env.example .env
    ```
+
+## Resultado de ejemplo
+![image](https://github.com/user-attachments/assets/d2b3ded4-74e2-4841-bc60-3e3e9c15fd40)
+
