@@ -39,5 +39,6 @@ Estos modelos fueron seleccionados para comparar su rendimiento y precisión al 
    ```
 
 ## Resultado de ejemplo
-![image](https://github.com/user-attachments/assets/d2b3ded4-74e2-4841-bc60-3e3e9c15fd40)
+![image](https://github.com/user-attachments/assets/d9828eb7-1205-44be-b2e0-ed910a591116)
+
 
